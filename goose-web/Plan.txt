@@ -1,0 +1,24 @@
+MY PERSONAL WEBSITE
+
+The objective of this site is to provide a bold and engaging introduction to myself as a Full Stack Developer, to showcase to 
+prospective employers and freelance clients.
+
+The site will be simple; a landing page which features a simple header with a circular profile image of me that intersects the header and the main
+body of the page.
+
+One page website, with a burger bar menu on the top left of the header, that helps the user navigate to whichever section of the page they wish to view.
+
+The main body of the page will be split into 3 sections, each with a different background colour. The first section will be a short introduction to myself, the second will be a list of my skills, with images and logos of the technologies I am familiar with, and the third will be examples of recent projects I have worked on, with links to the live sites and the GitHub repositories.
+
+The footer will contain links to my social media accounts, CV, and a contact form for users to get in touch with me.
+
+COMPONENTS
+
+The site will be built using React, and will be split into the following components:
+
+- Header
+- Main Page
+- About Me
+- Skills
+- Projects
+- Footer
