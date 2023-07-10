@@ -13,6 +13,7 @@ function App() {
       <body className="App-body">
       {/* <h1 className="Header-text">VICTORIA PLATT</h1> */}
        <img src={NameTitle} className="NameTitle" alt="Name" />
+       <p className="Header-text">ACTOR</p>
       </body>
       
       </header>
