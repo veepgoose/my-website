@@ -3,6 +3,8 @@ import logo from './logo.svg';
 import './App.css';
 import NavBar from './Components/Nav Bar/NavBar.js';
 import NameTitle from './NameTitle.png';
+import AboutMe from './Components/About Me/About.js';
+
 
 function App() {
   return (
@@ -13,7 +15,8 @@ function App() {
       <body className="App-body">
       {/* <h1 className="Header-text">VICTORIA PLATT</h1> */}
        <img src={NameTitle} className="NameTitle" alt="Name" />
-       <p className="Header-text">ACTOR</p>
+       <AboutMe className="AboutMe"/>
+       <p className="Header-text"></p>
       </body>
       
       </header>
